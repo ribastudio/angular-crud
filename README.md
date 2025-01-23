@@ -1,4 +1,4 @@
-
+#Gerado com [eReadme](https://readme.so/pt/editor)
 # Angular CRUD
 
 Criação de um CRUD consumindo uma API externa e manipulando os dados, como forma de testar a tecnologia Angular v19
